@@ -501,7 +501,7 @@ footer p {
 }
 .carousel .card {
   scroll-snap-align: start;
-  height: auto;
+  height: fit-content;
   list-style: none;
   background: #fff;
   cursor: pointer;
